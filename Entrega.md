@@ -1,6 +1,6 @@
 
 # Entrega
-
+https://github.com/francabielsa-rgb/Modulo_1/blob/main/Logo%20de%20equipo%20Los%20T%C3%A9cnicos.png
 | Apellido(s) | Nombre(s) | Correo Electrónico | WhatsApp | Link Github|
 |:-----------:|:---------:|:------------------:|:--------:|:----------:|
 | Aguilar | Maite Julieta | aguilar.maite.j@gmail.com | 2616114141
